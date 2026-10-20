@@ -1,5 +1,5 @@
 // ── 1. Beállítások ──
-const CONTRACT_ADDRESS = "0x0000000000000000000000000000000000000000"; // ide jön a telepített contract címe
+const CONTRACT_ADDRESS = "0xBe3af6C80a9602B5326571f7Ab6882147845F735"; // ide jön a telepített contract címe
 
 const BASE = {
   chainId: 8453,
