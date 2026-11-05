@@ -8,7 +8,6 @@ Ez a tároló egy **egyszerű on-chain szavazást** mutat be a **Base** főhál�
 
 **Tokensúlyos** változat (külön tároló): [Vidisopi/sulyozott](https://github.com/Vidisopi/sulyozott) · https://vidisopi.github.io/sulyozott/
 
-> A korábbi `sulyozottszavazas/` almappa átköltözött. A régi Pages-cím átirányít az új demóra.
 
 ---
 
@@ -38,7 +37,6 @@ Ez a tároló egy **egyszerű on-chain szavazást** mutat be a **Base** főhál�
 ├── index.html              # webes felület (GitHub Pages)
 ├── app.js                  # ethers.js + Base cím
 ├── Szavazas.sol            # szavazás kontrakt
-├── sulyozottszavazas/      # átirányítás a súlyozott demóra
 └── README.md
 ```
 
@@ -110,7 +108,6 @@ Olvasáshoz Remixben „at address” + az élő cím is működik a lefordítot
 ## Kapcsolódó anyag
 
 - Tokensúlyos (IGOV) demó: https://github.com/Vidisopi/sulyozott
-- Régi almappa címe (`…/vote/sulyozottszavazas/`) átirányít az új demóra.
 
 ---
 
