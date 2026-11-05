@@ -1,5 +1,8 @@
 # Egyszerű szavazás (1 cím = 1 szavazat) — oktatási demó
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
+
 Milton Friedman Egyetem · Gazdasági informatika · blokklánc gyakorlat
 
 Ez a tároló egy **egyszerű on-chain szavazást** mutat be a **Base** főhálózaton: minden csatlakozó cím **egyszer** szavazhat egy adott szavazáson (és egyszer módosíthat). Nincs token — a súly mindig 1. A cél oktatási: átlátható Solidity, MetaMaskos webes felület, Remixben megnyitható forrás.
@@ -122,6 +125,8 @@ Olvasáshoz Remixben „at address” + az élő cím is működik a lefordítot
 
 ---
 
-## Licenc és felelősség
+## Licenc
 
-Oktatási demó. Ne tárolj rajta jelentős értéket; a kulcsaidért te felelsz.
+Ez a tároló **[MIT](./LICENSE)** licenc alatt áll: szabadon másolható, módosítható, terjeszthető és kereskedelmi célra is használható, a copyright és a licencszöveg megtartásával. A szoftver „ahogy van” állapotú, garancia nélkül.
+
+Oktatási demó: ne tárolj rajta jelentős értéket; a MetaMask kulcsaidért te felelsz.
